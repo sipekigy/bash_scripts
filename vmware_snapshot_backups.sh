@@ -1,5 +1,5 @@
 #!/bin/bash
-# Gyula Sipeki DNM
+# Gyula Sipeki
 # daily snapshot task and dynamic removal
 
 VMID_LIST=$(vim-cmd vmsvc/getallvms|grep -E "*\.vmx"|cut -d " " -f1)
