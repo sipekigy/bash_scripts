@@ -1,5 +1,5 @@
 # bash_scripts
 Quick situational examples. 
-I work everyday with bash, just collect some easy memorizable examples.
+I working with bash and here just collecting some easy memorizable examples.
 
 
