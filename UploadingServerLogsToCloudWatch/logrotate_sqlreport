@@ -1,0 +1,13 @@
+# Version: 1.3.9
+/var/log/sqlreport/output.log {
+
+    missingok
+    notifempty
+    size 100M
+    create 0600 root root
+    delaycompress
+    compress
+    rotate 4
+    endscript
+}
+
